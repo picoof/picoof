@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @picoof
 - 👀 I usually code in React and Swift
-- 💞️ I’m for developpers to collaborate on an IOS app project
+- 💞️ I’m looking for developpers to collaborate on an IOS app project
 - 📫 How to reach me picoof@aol.com
 
 
